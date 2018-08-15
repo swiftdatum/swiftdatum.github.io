@@ -3,8 +3,8 @@
   <channel>
     <title>swiftdatum</title>
     <description>A blog about Data Science, Machine Learning, and Artificial Intelligence.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://swiftdatum.github.io/</link>
+    <atom:link href="https://swiftdatum.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>To embed or not to embed: the question for sentiment analysis</title>
@@ -611,8 +611,8 @@ Wall time: 18.1 s
 &lt;p&gt;These tests demonstrate that a claim that word embedding spaces carry no information (structure) about word sentiment/polarity is not exactly right, and this structure can be nicely revealed with appropriate dimensionality reduction techniques.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/08/03/final/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/03/final/</guid>
+        <link>https://swiftdatum.github.io/2018/08/03/final/</link>
+        <guid isPermaLink="true">https://swiftdatum.github.io/2018/08/03/final/</guid>
       </item>
     
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>http://localhost:4000</link>
+    <link>https://swiftdatum.github.io</link>
     <description>
       A blog about Data Science, Machine Learning, and Artificial Intelligence.
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>To embed or not to embed: the question for sentiment analysis</title>
-                <link>http://localhost:4000/2018/08/03/final/</link>
+                <link>https://swiftdatum.github.io/2018/08/03/final/</link>
                 <content:encoded>
                     <![CDATA[
                     <h1 id="intro">Intro</h1>

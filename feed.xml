@@ -615,7 +615,7 @@ Wall time: 18.1 s
 
 &lt;p&gt;These tests demonstrate that a claim that word embedding spaces carry no information (structure) about word sentiment/polarity is not exactly right, and this structure can be nicely revealed with appropriate dimensionality reduction techniques.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
         <link>https://swiftdatum.github.io/2018/08/03/to-embed-or-not-the-question-for-sentiment-analysis/</link>
         <guid isPermaLink="true">https://swiftdatum.github.io/2018/08/03/to-embed-or-not-the-question-for-sentiment-analysis/</guid>
       </item>

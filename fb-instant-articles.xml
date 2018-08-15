@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>http://localhost:4000</link>
+    <link>https://swiftdatum.github.io</link>
     <description>
       A blog about Data Science, Machine Learning, and Artificial Intelligence.
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>To embed or not to embed: the question for sentiment analysis</title>
-                <link>http://localhost:4000/2018/08/03/to-embed-or-not-the-question-for-sentiment-analysis/</link>
+                <link>https://swiftdatum.github.io/2018/08/03/to-embed-or-not-the-question-for-sentiment-analysis/</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Word embeddings are very popular for NLP tasks. Some data scientists use pretrained “out-of-the-box” word embeddings to classify sentiment. However, it was <a href="https://github.com/attardi/deepnl/wiki/Sentiment-Specific-Word-Embeddings">pointed out</a> that generic word embeddings produce vector space representations that do not necessary well encode sentiment information by proximity relationships. To cite the <em>deepnl</em> Python package documentation:</p>
